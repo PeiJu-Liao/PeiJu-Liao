@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Peggy. #PeiJu-Liao
 
-- 🔭 I’m currently on the way to become a front-end engineer.
+- 🔭 I’m currently on a front-end engineer.
 - 🌱 I’m currently learning HTML/CSS/Java Script/Git&GitHub
 - 📫 How to reach me : peggy1996850519@gmail.com 
 - 📰 This is my blog : https://medium.com/@spsdbbpyg
